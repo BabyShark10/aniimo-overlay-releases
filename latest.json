@@ -1,9 +1,9 @@
 {
-  "version": "0.1.12",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.12/AniimoOverlay.exe",
-  "sha256": "c6a769ac780f39c4a4715e6e266fc075f33d73d75badbaeada2240ee1e295164",
-  "size": 22804992,
-  "minVersion": "0.1.12",
-  "notes": "홈랜드 생산 계산기 추가: 툴바 [홈랜드]. 보유 시설·모듈을 넣으면 시설별 최적 생산품, 시간당 수익, 목표 도달 시간, 필요한 씨앗을 계산합니다 (베타 기준 자료, 참고용). 프로그램 종료가 사용 통계에 바로 반영되도록 수정.",
+  "version": "0.1.13",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.13/AniimoOverlay.exe",
+  "sha256": "baae3d9e0f7920370ba714de7dc1506f124d003980b92fd0a74d6b572adbf353",
+  "size": 23051776,
+  "minVersion": "0.1.13",
+  "notes": "새 프로그램 아이콘 (트레이·정보 창·실행 파일).",
   "signature": ""
 }
