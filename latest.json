@@ -1,9 +1,9 @@
 {
-  "version": "0.1.13",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.13/AniimoOverlay.exe",
-  "sha256": "baae3d9e0f7920370ba714de7dc1506f124d003980b92fd0a74d6b572adbf353",
-  "size": 23051776,
-  "minVersion": "0.1.13",
-  "notes": "새 프로그램 아이콘 (트레이·정보 창·실행 파일).",
+  "version": "0.1.14",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.14/AniimoOverlay.exe",
+  "sha256": "a5c7e180ff2d4b31b8e5dfd51072abd32d150f547cb818e8db12cfe513802872",
+  "size": 23062016,
+  "minVersion": "0.1.14",
+  "notes": "홈랜드 계산기: 숫자 입력칸의 증가/감소 버튼을 뚜렷하게 구분하고 글자 겹침 수정, 버튼 위에서 손가락 커서. 통화/옵션 선택 표시 개선.",
   "signature": ""
 }
