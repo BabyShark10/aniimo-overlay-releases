@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 사용법 · 문제 신고 요령
+    url: https://github.com/BabyShark10/aniimo-overlay-releases#문제-신고
+    about: 로그 파일 위치와 신고할 때 함께 적어 주면 좋은 내용
