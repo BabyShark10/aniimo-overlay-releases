@@ -1,9 +1,9 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.4/AniimoOverlay.exe",
-  "sha256": "e7d54645515ca341e13448fe47c51dfb774193cfebf54b790645f1d919456291",
+  "version": "0.1.5",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.5/AniimoOverlay.exe",
+  "sha256": "6783674aacc18e98efd079dc5979684fd279fd42561e85d750ba477a67eb5031",
   "size": 22347264,
-  "minVersion": "0.1.4",
-  "notes": "업데이트 안내 창(지금 업데이트 / 이전 버전 계속 사용), 진행 바, 툴바 업데이트 버튼",
+  "minVersion": "0.1.5",
+  "notes": "v0.1.5: 새 업데이트 안내 창 시연",
   "signature": ""
 }
