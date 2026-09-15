@@ -1,9 +1,9 @@
 {
-  "version": "0.1.16",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.16/AniimoOverlay.exe",
-  "sha256": "2405ce05cda4bd30b39ab01a36e4b19e97133e7a6cac81d2c35f46a73b509616",
-  "size": 23063040,
-  "minVersion": "0.1.16",
-  "notes": "홈랜드 계산기: 휠로 숫자를 바꾼 뒤 파란 선택 블록이 남던 문제 수정 (휠은 값만 바꾸고 포커스를 가져가지 않음).",
+  "version": "0.1.17",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.17/AniimoOverlay.exe",
+  "sha256": "007875f3e72bc9cf3014f2c4e74b0cf2277d1cf716b79372d5fb4ba52af7ebe1",
+  "size": 23312384,
+  "minVersion": "0.1.17",
+  "notes": "- 도감: 공식 위키의 설명·특성·스킬·홈 능력·공명 단계 육성 정보와 새 애니모를 표시하고, 검색 목록과 이름을 출시판에 맞게 다듬었습니다.\n- 포획 확률 계산기를 추가했습니다 (툴바 [포획], 게임 공식 확률 안내 기준).\n- 홈랜드 계산기: 시설·품목 이름과 최대 레벨을 출시판에 맞췄습니다.",
   "signature": ""
 }
