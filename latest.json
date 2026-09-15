@@ -1,9 +1,9 @@
 {
-  "version": "0.1.8",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.8/AniimoOverlay.exe",
-  "sha256": "44388efe0e6cc5ac90ea15a886c0201761cc7c7597005dba0c7f9cc9309725ef",
-  "size": 22395392,
-  "minVersion": "0.1.8",
-  "notes": "익명 사용 통계 추가 (무작위 ID·버전·실행 여부만 전송, 설정 창에서 끌 수 있음). 설정 창에 '사용 통계' 항목.",
+  "version": "0.1.9",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.9/AniimoOverlay.exe",
+  "sha256": "9d97f0baab0e5e512359504d123eaa5e8e7ed322a73c323e83220519bf82af3d",
+  "size": 22456320,
+  "minVersion": "0.1.9",
+  "notes": "오류 코드(AO-xxxx) 도입: 업데이트·데이터·이미지 오류 안내에 코드 표시, 갑작스런 종료 원인 자동 익명 보고. 트레이 메뉴에 '로그 폴더 열기' 추가. 익명 사용 통계는 항상 전송으로 변경(설정 항목 제거).",
   "signature": ""
 }
