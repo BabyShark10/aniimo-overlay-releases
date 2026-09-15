@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.6/AniimoOverlay.exe",
-  "sha256": "596516dc6f648e108d303dfe4ae70ee93c08b5b88d916bd1fac228aaa6d032d2",
-  "size": 22382592,
-  "minVersion": "0.1.6",
-  "notes": "도감: 애니모 이미지, 형태 탭, 이미지 진화 체인, 공식 위키 보기 버튼. 정보 창 새 디자인. 설정에 도감 이미지 표시 옵션",
+  "version": "0.1.7",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.7/AniimoOverlay.exe",
+  "sha256": "162e555aad3e0ab09ef60a89bfa073b93d9ca159d195a92d4b5fdab859979836",
+  "size": 22384128,
+  "minVersion": "0.1.7",
+  "notes": "도감: 진화 갈래를 나란히 표시, 한국어 이름·지역·형태·역할 보강",
   "signature": ""
 }
