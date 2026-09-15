@@ -1,9 +1,9 @@
 {
-  "version": "0.1.9",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.9/AniimoOverlay.exe",
-  "sha256": "9d97f0baab0e5e512359504d123eaa5e8e7ed322a73c323e83220519bf82af3d",
-  "size": 22456320,
-  "minVersion": "0.1.9",
-  "notes": "오류 코드(AO-xxxx) 도입: 업데이트·데이터·이미지 오류 안내에 코드 표시, 갑작스런 종료 원인 자동 익명 보고. 트레이 메뉴에 '로그 폴더 열기' 추가. 익명 사용 통계는 항상 전송으로 변경(설정 항목 제거).",
+  "version": "0.1.10",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.10/AniimoOverlay.exe",
+  "sha256": "faf77435dada155d343a1079580d247ef36de2aa288c3218e53c9657d527106f",
+  "size": 22464512,
+  "minVersion": "0.1.10",
+  "notes": "도감: 진화 갈래에서 이전 단계와 현재 단계의 높이가 맞지 않던 문제 수정. 이미지를 백그라운드에서 불러와 클릭·형태 탭 전환 시 버벅임 제거.",
   "signature": ""
 }
