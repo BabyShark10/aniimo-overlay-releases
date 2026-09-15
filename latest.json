@@ -1,9 +1,9 @@
 {
-  "version": "0.1.15",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.15/AniimoOverlay.exe",
-  "sha256": "ec53c911739f04006a642bdbb1bbe6931fb8e144984c506f93118b30c9bbdec1",
-  "size": 23062528,
-  "minVersion": "0.1.15",
-  "notes": "속성 아이콘(바람·빛·어둠)을 게임 표기와 비슷한 형태로 다시 그렸습니다.",
+  "version": "0.1.16",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.16/AniimoOverlay.exe",
+  "sha256": "2405ce05cda4bd30b39ab01a36e4b19e97133e7a6cac81d2c35f46a73b509616",
+  "size": 23063040,
+  "minVersion": "0.1.16",
+  "notes": "홈랜드 계산기: 휠로 숫자를 바꾼 뒤 파란 선택 블록이 남던 문제 수정 (휠은 값만 바꾸고 포커스를 가져가지 않음).",
   "signature": ""
 }
