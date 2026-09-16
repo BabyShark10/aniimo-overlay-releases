@@ -6,7 +6,7 @@
 최신 버전: [Releases](https://github.com/BabyShark10/aniimo-overlay-releases/releases/latest) 에서 `AniimoOverlay.exe` 하나만 받으면 됩니다. 설치 없음.
 
 - 처음 실행할 때 Windows SmartScreen 경고가 뜰 수 있습니다 (코드 서명 없음). "추가 정보 → 실행"으로 진행하세요. 이후 업데이트는 프로그램 안에서 자동으로 이루어지며 경고가 뜨지 않습니다.
-- 프로그램은 6시간마다 이 저장소의 `latest.json` 을 확인해 새 버전을 알려주고, 트레이 메뉴 "업데이트 확인"으로 설치합니다.
+- 프로그램은 10분마다 이 저장소의 `latest.json` 을 확인해 새 버전을 알려주고, 트레이 메뉴 "업데이트 확인"으로 설치합니다.
 
 ## 사용
 1. 게임을 실행합니다 (기본 화면 모드인 "테두리 없는 전체 창"이면 됩니다).
