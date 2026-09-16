@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.17/AniimoOverlay.exe",
-  "sha256": "007875f3e72bc9cf3014f2c4e74b0cf2277d1cf716b79372d5fb4ba52af7ebe1",
-  "size": 23312384,
-  "minVersion": "0.1.17",
-  "notes": "- 도감: 공식 위키의 설명·특성·스킬·홈 능력·공명 단계 육성 정보와 새 애니모를 표시하고, 검색 목록과 이름을 출시판에 맞게 다듬었습니다.\n- 포획 확률 계산기를 추가했습니다 (툴바 [포획], 게임 공식 확률 안내 기준).\n- 홈랜드 계산기: 시설·품목 이름과 최대 레벨을 출시판에 맞췄습니다.",
+  "version": "0.1.18",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.18/AniimoOverlay.exe",
+  "sha256": "55ec1e114a15ce7ae955fab3a4229abff4d955df644d2e892514615491ad56ea",
+  "size": 23366656,
+  "minVersion": "0.1.18",
+  "notes": "- 설정에서 단축키를 바꿀 수 있습니다 (오버레이 표시/숨김, 상성·도감·홈랜드·포획·설정 패널, 크기).\n- 메뉴와 정보 창에서 문제 신고 · 건의(GitHub)로 바로 갈 수 있습니다.\n- 정보 창에 라이센스 안내를 추가했습니다.",
   "signature": ""
 }
