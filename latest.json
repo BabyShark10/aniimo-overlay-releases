@@ -1,9 +1,9 @@
 {
-  "version": "0.1.20",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.20/AniimoOverlay.exe",
-  "sha256": "9fe6e4b849abdf44dfc7871e9a2e18ef424061c93a5caa8e65b82507221a01ca",
-  "size": 24363008,
-  "minVersion": "0.1.20",
-  "notes": "지도 패널 추가: 애니모 서식지와 보물 상자·알·채집 등 마커를 분류별로 표시하고 클릭해 완료 체크\n홈랜드 계산기: 시설 최대 레벨을 실제 값으로 수정\n도감: 행동 능력(비행·등반·수영)과 탐사 스킬을 나누어 표시",
+  "version": "0.1.21",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.21/AniimoOverlay.exe",
+  "sha256": "a3cdb57bf4e367ec8a7f8a0a677be8cda54f95cc0323922b2ca8b48b77b35ab0",
+  "size": 24344576,
+  "minVersion": "0.1.21",
+  "notes": "홈랜드 계산기: 생산 시간·판매가·레시피를 게임 데이터 기준으로 교체 (시설 23종, 애니모 능력 레벨 입력)\n홈랜드 계산기: 시설 입력값이 초기화되니 한 번 다시 입력해 주세요",
   "signature": ""
 }
