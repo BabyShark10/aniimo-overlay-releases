@@ -2,6 +2,11 @@
 
 애니모(Aniimo) PC 버전 위에 띄우는 **비공식** 보조 오버레이입니다. 속성 상성, 도감(진화·특성·스킬·홈 능력), 홈랜드 생산 계산기, 포획 확률 계산기를 게임 화면 위에서 바로 봅니다.
 
+## 소개 영상
+[![애니모 정보 프로그램, 보조 프로그램, 오버레이](https://img.youtube.com/vi/g42ORYb134I/maxresdefault.jpg)](https://www.youtube.com/watch?v=g42ORYb134I)
+
+▶ 위 그림을 누르면 YouTube 에서 재생됩니다.
+
 ## 다운로드
 최신 버전: [Releases](https://github.com/BabyShark10/aniimo-overlay-releases/releases/latest) 에서 `AniimoOverlay.exe` 하나만 받으면 됩니다. 설치 없음.
 
