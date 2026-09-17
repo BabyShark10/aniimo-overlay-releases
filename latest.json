@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.0.1/AniimoOverlay.exe",
-  "sha256": "a4ba8f0871efe4db3d384b95d99bfd51e951a56a61e78de9fd319462ab87c787",
+  "version": "1.0.2",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.0.2/AniimoOverlay.exe",
+  "sha256": "3965d7e9b2781abbf8d2d65c49dbcd45473f88d0fa07ff9272a78ee2a2ce1336",
   "size": 25713664,
   "minVersion": "1.0.0",
-  "notes": "- 툴바 버튼을 게임 아이콘으로 바꾸고 버튼 설명(툴팁)이 보이도록 수정\n- 도감·지도 출현 조건 보강: 비·눈·뇌우·천휘 날씨와 밤 조건, 연속 포획·타이틀 같은 특수 조건 문장 표시\n- 지도 구역 안내문 정리, 썸네일 툴팁 강조",
+  "notes": "- 속성 상성표를 게임 데이터 기준으로 정정 (어둠·땅·얼음 일부 칸)\n- 도감 스킬 설명에서 값이 'None' 으로 보이던 곳 수정 (애니모 스탯 비례 효과는 공식으로 표기)\n- 게임 패치(9/18) 데이터 반영: 홈랜드 레시피, 진화 재료명, 출현 지점",
   "signature": ""
 }
