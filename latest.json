@@ -1,9 +1,9 @@
 {
-  "version": "0.1.19",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.19/AniimoOverlay.exe",
-  "sha256": "e09ac45183f9a5d0609bd07731e28e6dcf224aca48f568efed9777fdd863982c",
-  "size": 23367168,
-  "minVersion": "0.1.19",
-  "notes": "- 새 버전 확인 주기를 6시간에서 10분으로 줄였습니다. 같은 새 버전에 대한 안내 창은 한 번만 뜹니다.",
+  "version": "0.1.20",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v0.1.20/AniimoOverlay.exe",
+  "sha256": "9fe6e4b849abdf44dfc7871e9a2e18ef424061c93a5caa8e65b82507221a01ca",
+  "size": 24363008,
+  "minVersion": "0.1.20",
+  "notes": "지도 패널 추가: 애니모 서식지와 보물 상자·알·채집 등 마커를 분류별로 표시하고 클릭해 완료 체크\n홈랜드 계산기: 시설 최대 레벨을 실제 값으로 수정\n도감: 행동 능력(비행·등반·수영)과 탐사 스킬을 나누어 표시",
   "signature": ""
 }
