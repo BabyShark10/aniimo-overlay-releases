@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.0.0/AniimoOverlay.exe",
-  "sha256": "9b98edf5a082b0a3eef85e4f209b08bf59af31854e693309f111bf7a8f418563",
-  "size": 25679872,
+  "version": "1.0.1",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.0.1/AniimoOverlay.exe",
+  "sha256": "a4ba8f0871efe4db3d384b95d99bfd51e951a56a61e78de9fd319462ab87c787",
+  "size": 25713664,
   "minVersion": "1.0.0",
-  "notes": "지도·도감·홈랜드 데이터를 게임 데이터 기준으로 전면 교체\n지도 구역별 출현 애니모·시간대·날씨, 도감 필터, 시작 화면 추가\n이전 버전은 지원 종료. 이 버전부터 필수 업데이트가 적용됩니다",
+  "notes": "- 툴바 버튼을 게임 아이콘으로 바꾸고 버튼 설명(툴팁)이 보이도록 수정\n- 도감·지도 출현 조건 보강: 비·눈·뇌우·천휘 날씨와 밤 조건, 연속 포획·타이틀 같은 특수 조건 문장 표시\n- 지도 구역 안내문 정리, 썸네일 툴팁 강조",
   "signature": ""
 }
