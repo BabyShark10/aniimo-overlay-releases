@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.1.1/AniimoOverlay.exe",
-  "sha256": "5d92ab247cb4c7f953501a3ce397f32aca374195fac082904e8ef3ee4fbe9ce8",
-  "size": 30873600,
+  "version": "1.1.2",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.1.2/AniimoOverlay.exe",
+  "sha256": "d6a2d89790db4bd2efdcde923505e7cb72f1cd916931fa45e3a2aebabac46dfe",
+  "size": 30881280,
   "minVersion": "1.0.0",
-  "notes": "퀘스트 도우미에 이벤트 탭 추가 — '내가 누구게' 회차별 정답과 기간, 출현 장소\n도감에서 형태가 많은 애니모의 형태 버튼이 잘려 보이지 않던 문제 수정\n패널 크기를 바꿀 때 버튼 모서리 모양이 달라지던 문제 수정",
+  "notes": "지도 구역 경계를 밝은 지형에서도 보이게 하고, 구역 안을 가로지르던 선과 이름 위치를 바로잡았습니다\n도감에 출현 조건을 눈에 띄게 표시하고, 출현 지점이 적은 애니모는 지점 수를 알려줍니다\n지도 썸네일에 정확한 출현 위치를 추가하고, 이벤트 규칙과 업데이트 내역을 줄 단위로 보여 줍니다",
   "signature": ""
 }
