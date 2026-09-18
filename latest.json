@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.0.2/AniimoOverlay.exe",
-  "sha256": "3965d7e9b2781abbf8d2d65c49dbcd45473f88d0fa07ff9272a78ee2a2ce1336",
-  "size": 25713664,
+  "version": "1.1.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.1.0/AniimoOverlay.exe",
+  "sha256": "9e24727698c2d3499d0607edc4509672febf3451816d6636390d363f55ed71ef",
+  "size": 30737920,
   "minVersion": "1.0.0",
-  "notes": "- 속성 상성표를 게임 데이터 기준으로 정정 (어둠·땅·얼음 일부 칸)\n- 도감 스킬 설명에서 값이 'None' 으로 보이던 곳 수정 (애니모 스탯 비례 효과는 공식으로 표기)\n- 게임 패치(9/18) 데이터 반영: 홈랜드 레시피, 진화 재료명, 출현 지점",
+  "notes": "파티 조합 패널과 퀘스트 도우미(위치 그림·필요 항목 강조·완료 표시) 추가\n도감·지도에 출현 방식(출현 지점 수, 그 구역 날씨, 부숴야 나오는 오브젝트, NPC 대전 전용) 표시\n게임 런처와 게임 창을 혼동해 오버레이가 사라지던 문제 수정, 스크롤바 정리",
   "signature": ""
 }
