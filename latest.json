@@ -1,9 +1,9 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.1.2/AniimoOverlay.exe",
-  "sha256": "d6a2d89790db4bd2efdcde923505e7cb72f1cd916931fa45e3a2aebabac46dfe",
-  "size": 30881280,
+  "version": "1.2.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.0/AniimoOverlay.exe",
+  "sha256": "7b0b5b64c0183d08cac76a90997334e0cc90d863bee8834ceb214dde878ed488",
+  "size": 40727040,
   "minVersion": "1.0.0",
-  "notes": "지도 구역 경계를 밝은 지형에서도 보이게 하고, 구역 안을 가로지르던 선과 이름 위치를 바로잡았습니다\n도감에 출현 조건을 눈에 띄게 표시하고, 출현 지점이 적은 애니모는 지점 수를 알려줍니다\n지도 썸네일에 정확한 출현 위치를 추가하고, 이벤트 규칙과 업데이트 내역을 줄 단위로 보여 줍니다",
+  "notes": "**아이템 도감** 추가 - 아이템 3,761개의 획득 방법과 사용처를 툴바 [아이템] 버튼(Alt+I)에서 바로 볼 수 있습니다\r\n재료를 누르면 그 아이템으로, 진화 재료의 애니모를 누르면 도감으로 이어집니다. 이름을 모르면 아이콘으로 찾으세요\r\n패널마다 오른쪽 위 **닫기 버튼**을 넣고, 어두운 배경에서 잘 안 보이던 글씨를 밝게 고쳤습니다\r\n업데이트가 실패했을 때 다운로드 페이지로 바로 가는 버튼을 넣었습니다",
   "signature": ""
 }
