@@ -1,9 +1,10 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.1/AniimoOverlay.exe",
-  "sha256": "1ec0108a08c86925b7aec6978d97cbad1a71d9c7b9e30b37263f6a8ee7917415",
-  "size": 40727552,
+  "version": "1.2.2",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.2/AniimoOverlay.exe",
+  "sha256": "a8dfb45f0c5be2efbb40357f91e5fbd40537bb47f262882433b371f7f5eac989",
+  "size": 40925696,
   "minVersion": "1.0.0",
-  "notes": "퀘스트 도우미가 **수수께끼 정답**을 알려 줍니다 - 큰 모자를 쓴 애니모, 스케치 속 애니모 같은 것들\r\n퀘스트 단계에 진행 순서와 지도 지점 번호를 나눠 표시하고, [선택 가능] 목표와 숨어 있던 소제목을 보여 줍니다\r\n지도에서 구역을 누르면 애니모가 **인게임과 같은 순서**로 나옵니다 (늑대이빨 능선에 설휘랑 추가)\r\n툴바를 **세로로 놓거나 버튼 순서**를 바꿀 수 있고, 설정 창이 화면보다 길어지지 않습니다\r\n안개숲 북부 덩굴핵 위치를 바로잡았습니다 - 게임 길찾기 표시가 실제 위치와 어긋나 있었습니다",
+  "notes": "도감에 **애니모 MBTI 추천** 이 생겼습니다 - 전투용과 홈 작업용을 애니모마다 따로 골라 줍니다\r\n아이템 도감에 **효과** 가 표시됩니다 - 설명만 있고 뭐에 쓰는지 안 적혀 있던 아이템들\r\n<꽃과 가시> 같은 **책 제목이 통째로 빠져 보이던 문제** 를 고쳤습니다 (이름이 뭉개져 합쳐졌던 아이템 28개 복구)\r\n안개숲 북부 덩굴핵 위치를 다시 바로잡았습니다\r\n시작 화면과 정보 창에 **후원 QR** 을 넣었습니다 - 기능은 전부 무료 그대로입니다",
+  "donate": true,
   "signature": ""
 }
