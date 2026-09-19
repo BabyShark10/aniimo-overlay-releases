@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.0/AniimoOverlay.exe",
-  "sha256": "7b0b5b64c0183d08cac76a90997334e0cc90d863bee8834ceb214dde878ed488",
-  "size": 40727040,
+  "version": "1.2.1",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.1/AniimoOverlay.exe",
+  "sha256": "1ec0108a08c86925b7aec6978d97cbad1a71d9c7b9e30b37263f6a8ee7917415",
+  "size": 40727552,
   "minVersion": "1.0.0",
-  "notes": "**아이템 도감** 추가 - 아이템 3,761개의 획득 방법과 사용처를 툴바 [아이템] 버튼(Alt+I)에서 바로 볼 수 있습니다\r\n재료를 누르면 그 아이템으로, 진화 재료의 애니모를 누르면 도감으로 이어집니다. 이름을 모르면 아이콘으로 찾으세요\r\n패널마다 오른쪽 위 **닫기 버튼**을 넣고, 어두운 배경에서 잘 안 보이던 글씨를 밝게 고쳤습니다\r\n업데이트가 실패했을 때 다운로드 페이지로 바로 가는 버튼을 넣었습니다",
+  "notes": "퀘스트 도우미가 **수수께끼 정답**을 알려 줍니다 - 큰 모자를 쓴 애니모, 스케치 속 애니모 같은 것들\r\n퀘스트 단계에 진행 순서와 지도 지점 번호를 나눠 표시하고, [선택 가능] 목표와 숨어 있던 소제목을 보여 줍니다\r\n지도에서 구역을 누르면 애니모가 **인게임과 같은 순서**로 나옵니다 (늑대이빨 능선에 설휘랑 추가)\r\n툴바를 **세로로 놓거나 버튼 순서**를 바꿀 수 있고, 설정 창이 화면보다 길어지지 않습니다\r\n안개숲 북부 덩굴핵 위치를 바로잡았습니다 - 게임 길찾기 표시가 실제 위치와 어긋나 있었습니다",
   "signature": ""
 }
