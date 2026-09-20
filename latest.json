@@ -3,7 +3,7 @@
   "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.2.3/AniimoOverlay.exe",
   "sha256": "a6b380aa5daea6d840ba56f0ea8f3380485bb5db9e11bfcbad33310682173bbb",
   "size": 46106112,
-  "minVersion": "1.0.0",
+  "minVersion": "1.2.3",
   "notes": "지도 이동 거점에 순간이동 지점(지맥 결정 무리) 27곳 추가, 모닥불은 별도 분류로\n지도를 확대해도 흐려지지 않게 **원본 해상도** 지도로 교체\n퀘스트 도우미에서 검색·완료 체크 직후 드물게 프로그램이 종료되던 문제 수정",
   "donate": true,
   "signature": ""
