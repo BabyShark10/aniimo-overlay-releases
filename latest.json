@@ -1,10 +1,10 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.3.3/AniimoOverlay.exe",
-  "sha256": "d8c08d18b48c42716c8e513a553c6e74959a0f66aab2487ae1d3079e55c96d3d",
-  "size": 48969216,
+  "version": "1.4.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.4.0/AniimoOverlay.exe",
+  "sha256": "a41b7ee3cb0500deb9eaf7350763e1959a5a34644325086d24571e385d3fbcc1",
+  "size": 49394176,
   "minVersion": "1.3.2",
-  "notes": "홈랜드 계산기: 입력과 결과를 [입력] [결과] 탭으로 나눠 창이 짧아졌습니다 (계산하면 결과 탭으로)\n이번부터 업데이트는 필수가 아니라 선택입니다 — 게임 중 안내 창이 뜨지 않게 원할 때 설치하세요",
+  "notes": "**영어 지원** — 설정 > 언어에서 English 를 고르면 화면 문구와 애니모·아이템·시설·지역 이름이 영어로 나옵니다 (첫 실행은 시스템 언어)\n업데이트 내역 창 추가 (메뉴 > 업데이트 내역, 안내 창의 [전체 내역]) · 선택 업데이트는 창 없이 툴바 [⬆] 버튼으로만 알립니다\n마프링: 다른 애니모로 변신해 서 있는 5곳을 지도와 도감 출현 방식에 추가 (검색: 모프링)\nEnglish language support: Settings > Language > English (restart to apply)",
   "donate": true,
   "signature": ""
 }
