@@ -1,10 +1,11 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.4.1/AniimoOverlay.exe",
-  "sha256": "f884cd2733b026986c55920b6c055004c8fe151bca0ab07f365d7f876835493a",
-  "size": 49432064,
-  "minVersion": "1.4.1",
-  "notes": "English mode: the support panel now shows a Ko-fi QR and link (ko-fi.com/babyshark10) instead of the Kakao QR\n선택 업데이트 알림: 실행 직후 확인에서 찾았을 때만 창을 한 번 띄우고, 이후에는 툴바 [⬆] 버튼으로만 알립니다\n번역 파일(en.json · en_data.json)을 배포 저장소 i18n 폴더에 공개 — 영어 문구 수정 제안을 받습니다",
+  "version": "1.5.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.0/AniimoOverlay.exe",
+  "sha256": "6d8503724acde5db2b4db657057699be8a5d5c8333f01731597c5c75d543d098",
+  "size": 49445376,
+  "minVersion": "1.5.0",
+  "notes": "알 쟁탈전 **파티 모집** 게시판 추가 — Discord 연동 뒤 난이도별로 글을 올리고 계정 코드를 복사해 초대 (이 기능만 연동 필요)\n툴바에서 **안 쓰는 버튼 숨기기** (설정 > 툴바)\n업데이트 안내와 내역이 **영어 모드에서는 영어로** 나옵니다 · 파티 조합 추천 패널은 제거",
+  "notes_en": "**Party recruit** board for Egg Scramble — link Discord, post by difficulty and copy account codes to invite (only this feature needs Discord)\n**Hide unused toolbar buttons** (Settings > Toolbar)\nUpdate notices and history are now **in English in English mode** · the party composition panel was removed",
   "donate": true,
   "signature": ""
 }
