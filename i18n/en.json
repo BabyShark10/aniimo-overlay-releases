@@ -567,6 +567,7 @@
  "SHA-256 검증 실패. 업데이트를 폐기했습니다.": "SHA-256 verification failed. The update was discarded.",
  "파일 저장 실패: ": "Failed to save the file: ",
  "실행 파일이 있는 폴더에 쓸 권한이 없습니다. 프로그램을 바탕화면·다운로드 같은 일반 폴더로 옮긴 뒤 다시 시도해 주세요.": "No permission to write to the program's folder. Move the program to a normal folder such as Desktop or Downloads and try again.",
+ "실행 파일이 사라졌어요. 백신 프로그램이 격리했을 가능성이 큽니다. 백신에서 AniimoOverlay.exe 를 예외(허용) 목록에 넣은 뒤, 아래에서 새 버전을 다시 받아 주세요.": "The executable has disappeared. It was most likely quarantined by your antivirus. Add AniimoOverlay.exe to the antivirus exclusion (allow) list, then download the new version again below.",
  "다른 프로그램(백신·클라우드 동기화 등)이 실행 파일을 사용 중이어서 바꾸지 못했어요. 잠시 뒤 다시 시도해 주세요.": "Another program (antivirus, cloud sync, etc.) is using the executable, so it could not be replaced. Please try again shortly.",
  "새 실행 파일 이동 실패. 원래 버전으로 복구했습니다.": "Failed to move the new executable. Restored the original version.",
  "새 버전 실행 실패. 프로그램을 다시 시작해 주세요.": "Failed to start the new version. Please restart the program.",
