@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.0/AniimoOverlay.exe",
-  "sha256": "6d8503724acde5db2b4db657057699be8a5d5c8333f01731597c5c75d543d098",
-  "size": 49445376,
+  "version": "1.5.1",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.1/AniimoOverlay.exe",
+  "sha256": "5fab48e61ab256759f71bdaac1c59ae9c09147114e4a4b1e8b88d25de1e5d1eb",
+  "size": 49585152,
   "minVersion": "1.5.0",
-  "notes": "알 쟁탈전 **파티 모집** 게시판 추가 — Discord 연동 뒤 난이도별로 글을 올리고 계정 코드를 복사해 초대 (이 기능만 연동 필요)\n툴바에서 **안 쓰는 버튼 숨기기** (설정 > 툴바)\n업데이트 안내와 내역이 **영어 모드에서는 영어로** 나옵니다 · 파티 조합 추천 패널은 제거",
-  "notes_en": "**Party recruit** board for Egg Scramble — link Discord, post by difficulty and copy account codes to invite (only this feature needs Discord)\n**Hide unused toolbar buttons** (Settings > Toolbar)\nUpdate notices and history are now **in English in English mode** · the party composition panel was removed",
+  "notes": "영어 모드에서 한국어로 남아 있던 **도감 스킬·특성 설명과 퀘스트 안내**를 모두 영어로\n패널을 옮긴 뒤 **창이 마우스를 따라다니던 문제** 수정 (지하 궁전 지도·모집 인원 버튼)\n**업데이트 교체 실패**(백신 잠금·격리) 상황에서 재시도와 안내 개선\n설정 언어 선택과 도감 필터에 **드롭박스 표시** 추가, 아이템 목록 스크롤바 정리",
+  "notes_en": "Everything that still showed in Korean in **English mode** (Dex skill and trait descriptions, quest guides, item sources) is now in English\nFixed panels **following the mouse** after being moved (Sanctum map, party size buttons)\nBetter retries and guidance when an **update fails to replace the exe** (antivirus lock or quarantine)\nAdded **dropdown arrows** to the language and Dex filter boxes; tidied the item list scrollbar",
   "donate": true,
   "signature": ""
 }
