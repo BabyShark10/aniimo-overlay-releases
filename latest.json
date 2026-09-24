@@ -1,11 +1,11 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.1/AniimoOverlay.exe",
-  "sha256": "5fab48e61ab256759f71bdaac1c59ae9c09147114e4a4b1e8b88d25de1e5d1eb",
-  "size": 49585152,
+  "version": "1.5.2",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.2/AniimoOverlay.exe",
+  "sha256": "8d0cd3bb08a623d97297e74fe15bf56c82583aa71be7e38acc132c67c3eba233",
+  "size": 49816064,
   "minVersion": "1.5.0",
-  "notes": "영어 모드에서 한국어로 남아 있던 **도감 스킬·특성 설명과 퀘스트 안내**를 모두 영어로\n패널을 옮긴 뒤 **창이 마우스를 따라다니던 문제** 수정 (지하 궁전 지도·모집 인원 버튼)\n**업데이트 교체 실패**(백신 잠금·격리) 상황에서 재시도와 안내 개선\n설정 언어 선택과 도감 필터에 **드롭박스 표시** 추가, 아이템 목록 스크롤바 정리",
-  "notes_en": "Everything that still showed in Korean in **English mode** (Dex skill and trait descriptions, quest guides, item sources) is now in English\nFixed panels **following the mouse** after being moved (Sanctum map, party size buttons)\nBetter retries and guidance when an **update fails to replace the exe** (antivirus lock or quarantine)\nAdded **dropdown arrows** to the language and Dex filter boxes; tidied the item list scrollbar",
+  "notes": "**홈랜드 계산기에 [애니팟·성장재화 우선]** 을 넣었어요. 애니팟 제조기·댄스 에너지 메이커를 돌리는 만큼 재료를 먼저 확보해요.\n**파티 모집에 구하는 역할과 홀로그램 협동전**을 추가했어요. 이번 주 보스를 골라 4명 파티를 모을 수 있어요.\n게임 패치 **1.0.3584014** 데이터를 반영하고, 영어 모드에 남은 한국어와 아이템 제작 시간 표시를 고쳤어요.",
+  "notes_en": "**Homeland planner: [Aniipods and growth items first].** It secures materials for your Aniipod Maker and Dance Pad Polisher first, then maximizes income.\n**Party finder: pick the roles you need, and Holo-Battle Interlink.** Recruit a team of four for this week's bosses.\nUpdated for game patch **1.0.3584014**, with fixes for leftover Korean in English mode and crafting times that showed as 0 min.",
   "donate": true,
   "signature": ""
 }
