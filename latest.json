@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.2/AniimoOverlay.exe",
-  "sha256": "8d0cd3bb08a623d97297e74fe15bf56c82583aa71be7e38acc132c67c3eba233",
-  "size": 49816064,
+  "version": "1.5.3",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.3/AniimoOverlay.exe",
+  "sha256": "f7f72cca8c52915aedd80e7df3d9ba21ffd0d48ccc3195881c51c1b429212f5c",
+  "size": 49832960,
   "minVersion": "1.5.0",
-  "notes": "**홈랜드 계산기에 [애니팟·성장재화 우선]** 을 넣었어요. 애니팟 제조기·댄스 에너지 메이커를 돌리는 만큼 재료를 먼저 확보해요.\n**파티 모집에 구하는 역할과 홀로그램 협동전**을 추가했어요. 이번 주 보스를 골라 4명 파티를 모을 수 있어요.\n게임 패치 **1.0.3584014** 데이터를 반영하고, 영어 모드에 남은 한국어와 아이템 제작 시간 표시를 고쳤어요.",
-  "notes_en": "**Homeland planner: [Aniipods and growth items first].** It secures materials for your Aniipod Maker and Dance Pad Polisher first, then maximizes income.\n**Party finder: pick the roles you need, and Holo-Battle Interlink.** Recruit a team of four for this week's bosses.\nUpdated for game patch **1.0.3584014**, with fixes for leftover Korean in English mode and crafting times that showed as 0 min.",
+  "notes": "**지하 궁전 찾기에 상자 방**을 표시해요. 노란 테두리로 보이고, 난이도별 레전더리 상자 수도 알려 줘요.\n최신 게임 핫픽스 데이터를 반영했어요 (아이템 이름·설명, 퀘스트 안내).\n업데이트 뒤 **남은 이전 버전 파일**을 다음 실행 때 다시 지워요.",
+  "notes_en": "**Underground palace finder now shows chest rooms** with a yellow ring, plus how many Legendary chests each difficulty has.\nUpdated for the latest game hotfix (item names and descriptions, quest steps).\n**Leftover old-version files** after an update are now cleaned up on the next launch.",
   "donate": true,
   "signature": ""
 }
