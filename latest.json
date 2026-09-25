@@ -1,11 +1,11 @@
 {
-  "version": "1.5.3",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.3/AniimoOverlay.exe",
-  "sha256": "f7f72cca8c52915aedd80e7df3d9ba21ffd0d48ccc3195881c51c1b429212f5c",
-  "size": 49832960,
+  "version": "1.5.4",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.4/AniimoOverlay.exe",
+  "sha256": "40588ad9bf28518022026e9ad67bbb69b863e99fcb08cf8d6329eb4f2aec0731",
+  "size": 49981440,
   "minVersion": "1.5.0",
-  "notes": "**지하 궁전 찾기에 상자 방**을 표시해요. 노란 테두리로 보이고, 난이도별 레전더리 상자 수도 알려 줘요.\n최신 게임 핫픽스 데이터를 반영했어요 (아이템 이름·설명, 퀘스트 안내).\n업데이트 뒤 **남은 이전 버전 파일**을 다음 실행 때 다시 지워요.",
-  "notes_en": "**Underground palace finder now shows chest rooms** with a yellow ring, plus how many Legendary chests each difficulty has.\nUpdated for the latest game hotfix (item names and descriptions, quest steps).\n**Leftover old-version files** after an update are now cleaned up on the next launch.",
+  "notes": "**일일·주간 체크리스트**를 추가했어요 (Alt+L). 상점 한정 상품·이벤트 출석까지 매일·매주 초기화되는 것을 모아, 남은 시간과 게임에서 가는 길을 함께 보여 줘요.\n**통합 검색**을 추가했어요 (Alt+F). 애니모·아이템·퀘스트·지역을 한 번에 찾아 바로 열어요.\n퀘스트·지도에서 **좌표 X·Y를 복사**해 게임 지도 [좌표 검색]에 붙여 넣을 수 있어요.\n퀘스트 도우미 이벤트 탭에 **흔적 찾기·풍요로운 지맥·애니모 발견왕**을 추가했어요.",
+  "notes_en": "**Daily & weekly checklist** added (Alt+L): everything that resets daily or weekly, including limited shop goods and event check-ins, with time left and where to find it in game.\n**Search** added (Alt+F): find Aniimo, items, quests and areas in one place and jump straight to them.\nQuest helper and map can now **copy X and Y coordinates** to paste into the in-game map's [Coordinate Search].\nNew events in the quest helper: **Tracing the Trail, Vein Abundance and Aniimo Discovery**.",
   "donate": true,
   "signature": ""
 }
