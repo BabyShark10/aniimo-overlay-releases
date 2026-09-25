@@ -1,11 +1,11 @@
 {
-  "version": "1.5.5",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.5/AniimoOverlay.exe",
-  "sha256": "4912bf6b25e3209639b9520966fff9470f11f9c3ec52e75af3b5528374da210b",
-  "size": 49984000,
+  "version": "1.5.6",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.6/AniimoOverlay.exe",
+  "sha256": "c1579bdaaac27051792fcd42088d25f0e51776b94774e9cc62a85624a3410d7e",
+  "size": 50034176,
   "minVersion": "1.5.0",
-  "notes": "설정의 **툴바 버튼 편집** 화면을 정리했어요. 보이는 버튼과 숨긴 버튼을 나란히 두고, 가운데 ▶ ◀로 옮겨요.",
-  "notes_en": "Tidied up **toolbar button editing** in Settings: shown and hidden buttons now sit side by side, with ▶ ◀ in the middle to move them.",
+  "notes": "도감 MBTI 칸에 애니모별 **추천 장착 아이템(아이콘)과 성격**을 보여 줘요.\n**앱 공지**를 받을 수 있어요. 게임 화면 위쪽에 잠깐 떴다가 사라지고, 공지 위를 눌러도 게임에 영향이 없어요.\n파티 모집 안내를 **줄마다 짧게** 정리했어요. Discord 연동은 중복 가입·도배를 막는 본인 확인용이며 **음성·마이크 기능은 없어요**.",
+  "notes_en": "The dex MBTI section now shows each Aniimo's **recommended held item (with icon) and personality**.\n**App notices**: short announcements appear briefly at the top of the game screen, and clicking them does not affect the game.\nParty listing tips are now **short, one per line**. Discord linking is only an identity check against duplicate sign-ups and spam; **there is no voice chat or microphone**.",
   "donate": true,
   "signature": ""
 }
