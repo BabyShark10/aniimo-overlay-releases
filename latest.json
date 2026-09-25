@@ -1,11 +1,11 @@
 {
-  "version": "1.5.4",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.4/AniimoOverlay.exe",
-  "sha256": "40588ad9bf28518022026e9ad67bbb69b863e99fcb08cf8d6329eb4f2aec0731",
-  "size": 49981440,
+  "version": "1.5.5",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.5.5/AniimoOverlay.exe",
+  "sha256": "4912bf6b25e3209639b9520966fff9470f11f9c3ec52e75af3b5528374da210b",
+  "size": 49984000,
   "minVersion": "1.5.0",
-  "notes": "**일일·주간 체크리스트**를 추가했어요 (Alt+L). 상점 한정 상품·이벤트 출석까지 매일·매주 초기화되는 것을 모아, 남은 시간과 게임에서 가는 길을 함께 보여 줘요.\n**통합 검색**을 추가했어요 (Alt+F). 애니모·아이템·퀘스트·지역을 한 번에 찾아 바로 열어요.\n퀘스트·지도에서 **좌표 X·Y를 복사**해 게임 지도 [좌표 검색]에 붙여 넣을 수 있어요.\n퀘스트 도우미 이벤트 탭에 **흔적 찾기·풍요로운 지맥·애니모 발견왕**을 추가했어요.",
-  "notes_en": "**Daily & weekly checklist** added (Alt+L): everything that resets daily or weekly, including limited shop goods and event check-ins, with time left and where to find it in game.\n**Search** added (Alt+F): find Aniimo, items, quests and areas in one place and jump straight to them.\nQuest helper and map can now **copy X and Y coordinates** to paste into the in-game map's [Coordinate Search].\nNew events in the quest helper: **Tracing the Trail, Vein Abundance and Aniimo Discovery**.",
+  "notes": "설정의 **툴바 버튼 편집** 화면을 정리했어요. 보이는 버튼과 숨긴 버튼을 나란히 두고, 가운데 ▶ ◀로 옮겨요.",
+  "notes_en": "Tidied up **toolbar button editing** in Settings: shown and hidden buttons now sit side by side, with ▶ ◀ in the middle to move them.",
   "donate": true,
   "signature": ""
 }
