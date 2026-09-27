@@ -39,8 +39,9 @@
 ▶ 위 그림을 누르면 YouTube 에서 재생됩니다. (초기 버전 영상이라 지금 화면과 조금 다릅니다)
 
 ## 다운로드
-[Releases](https://github.com/BabyShark10/aniimo-overlay-releases/releases/latest) 에서 `AniimoOverlay.exe` 하나만 받으면 됩니다. 설치 없음, 아무 폴더에 두고 실행하세요.
+[Releases](https://github.com/BabyShark10/aniimo-overlay-releases/releases/latest) 에서 `AniimoOverlay.exe` 하나만 받으면 됩니다. 설치 없음, 아무 폴더에 두고 실행하세요. 같은 파일을 압축한 `AniimoOverlay_v버전.zip` 도 있습니다 (압축을 풀어 exe 를 실행).
 
+- **브라우저가 "일반적으로 다운로드되지 않음" 으로 막을 때**: 코드 서명이 없는 새 실행 파일이라 뜨는 경고입니다. **Chrome** 은 다운로드 목록에서 그 파일의 **⋮ → 계속(보관)**, **Edge** 는 **… → 유지 → 자세히 표시 → 그래도 유지** 를 누르세요. 그래도 안 되면 **zip** 으로 받아 보세요.
 - 처음 실행할 때 Windows SmartScreen 경고가 뜰 수 있습니다 (코드 서명 없음). **"추가 정보 → 실행"** 으로 진행하세요.
 - 새 버전이 나오면 툴바에 **[⬆]** 버튼이 켜집니다. 누르면 프로그램 안에서 내려받아 교체하고 다시 실행됩니다. 게임 중에 창을 띄우지 않습니다.
 - 지금까지 바뀐 내용은 ≡ 메뉴 > **업데이트 내역** 에서 볼 수 있습니다.
