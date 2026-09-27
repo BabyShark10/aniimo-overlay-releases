@@ -1,11 +1,11 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.6.1/AniimoOverlay.exe",
-  "sha256": "84d5b4a8defc17cca0f7a99fe89a1482e0813c86639061781de97792b3af15ff",
-  "size": 50424320,
+  "version": "1.7.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.7.0/AniimoOverlay.exe",
+  "sha256": "de65e6aa4f7e35bb111feb663795844d108a891879bc1a65c025188dbd19f8aa",
+  "size": 50466816,
   "minVersion": "1.6.0",
-  "notes": "지도 채집물 마커를 **청록색**으로 바꾸고 [지도 어둡게] 옵션 추가\n지하 궁전 지도에 **알방(열쇠로 여는 방)** 표시, 마커 크기를 키우고 상자 방 테두리 색 변경\n홈랜드 결과가 길면 **스크롤**로 볼 수 있게, 애니모 탭이 잘리던 문제 수정\n체크리스트를 체크할 때 맨 위로 올라가던 문제 수정, **밑변을 끌어 높이 조절**\n휘석 상점 경로 안내 수정",
-  "notes_en": "Gatherable markers on the map are now **cyan**, plus a new [Dim map] option\nUnderground palace map now marks **egg rooms (opened with a key)**, with larger markers and a new chest-room outline color\nLong homeland results now **scroll**, and the Aniimo tab no longer gets cut off\nChecklist no longer jumps to the top when you tick an item; **drag the bottom edge to resize**\nFixed the Glimmer shop directions",
+  "notes": "**설정 동기화** — 설정 창에서 Discord 연동하면 체크리스트·지도 완료 표시·홈랜드 입력·퀘스트·단축키가 다른 PC 와 이어져요\n지하 궁전 지도: **알 둥지·열쇠 위치를 실제 자리로** 바로잡고, 열쇠(잠긴 문)는 빨간 테두리로 표시\n지하 궁전 지도에서 정문 방향 화살표 제거",
+  "notes_en": "**Settings sync** — link Discord in Settings to carry your checklist, map progress, homeland inputs, quests and hotkeys to your other PCs\nUnderground palace map: **egg nests and keys now sit at their exact spots**, and keys (locked doors) get a red outline\nRemoved the entrance direction arrows from the palace map",
   "donate": true,
   "signature": ""
 }
