@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.6.0/AniimoOverlay.exe",
-  "sha256": "598cc9065cdad7e9ec331ce8a5f5a534c8d03022b9e36ab951b07d1a4de5ca84",
-  "size": 50412544,
+  "version": "1.6.1",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.6.1/AniimoOverlay.exe",
+  "sha256": "84d5b4a8defc17cca0f7a99fe89a1482e0813c86639061781de97792b3af15ff",
+  "size": 50424320,
   "minVersion": "1.6.0",
-  "notes": "**지하 궁전 미니맵 자동 찾기·실시간 위치** (기본 꺼짐, 켜면 미니맵 부분만 읽고 저장하지 않음)\n지도: **채집물 골라 보기**\n홈랜드 계산기 개편: **[배치]·[애니모] 탭**, 인게임 실측 규칙\n체크리스트 정리(상점 위치·재화 표시), 이벤트 수색 애니모 출현 방식",
-  "notes_en": "**Underground Palace: find from the minimap and live position** (off by default; reads only the minimap area, nothing is saved)\nMap: **pick gatherables to show**\nHomeland planner overhaul: **[Layout] and [Aniimo] tabs**, rules matched to in-game measurements\nChecklist cleanup (shop locations and currencies), spawn method for event-search Aniimo",
+  "notes": "지도 채집물 마커를 **청록색**으로 바꾸고 [지도 어둡게] 옵션 추가\n지하 궁전 지도에 **알방(열쇠로 여는 방)** 표시, 마커 크기를 키우고 상자 방 테두리 색 변경\n홈랜드 결과가 길면 **스크롤**로 볼 수 있게, 애니모 탭이 잘리던 문제 수정\n체크리스트를 체크할 때 맨 위로 올라가던 문제 수정, **밑변을 끌어 높이 조절**\n휘석 상점 경로 안내 수정",
+  "notes_en": "Gatherable markers on the map are now **cyan**, plus a new [Dim map] option\nUnderground palace map now marks **egg rooms (opened with a key)**, with larger markers and a new chest-room outline color\nLong homeland results now **scroll**, and the Aniimo tab no longer gets cut off\nChecklist no longer jumps to the top when you tick an item; **drag the bottom edge to resize**\nFixed the Glimmer shop directions",
   "donate": true,
   "signature": ""
 }
