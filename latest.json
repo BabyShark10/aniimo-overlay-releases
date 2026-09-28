@@ -1,11 +1,11 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.7.0/AniimoOverlay.exe",
-  "sha256": "de65e6aa4f7e35bb111feb663795844d108a891879bc1a65c025188dbd19f8aa",
-  "size": 50466816,
+  "version": "1.8.0",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.0/AniimoOverlay.exe",
+  "sha256": "835483284f296b11913c05aa96284f9bca57feef216549603f9ffef67a75dda1",
+  "size": 55904256,
   "minVersion": "1.6.0",
-  "notes": "**설정 동기화** — 설정 창에서 Discord 연동하면 체크리스트·지도 완료 표시·홈랜드 입력·퀘스트·단축키가 다른 PC 와 이어져요\n지하 궁전 지도: **알 둥지·열쇠 위치를 실제 자리로** 바로잡고, 열쇠(잠긴 문)는 빨간 테두리로 표시\n지하 궁전 지도에서 정문 방향 화살표 제거",
-  "notes_en": "**Settings sync** — link Discord in Settings to carry your checklist, map progress, homeland inputs, quests and hotkeys to your other PCs\nUnderground palace map: **egg nests and keys now sit at their exact spots**, and keys (locked doors) get a red outline\nRemoved the entrance direction arrows from the palace map",
+  "notes": "지도에 **실시간 내 위치** — 지도 아래 [실시간]을 켜면 빨간 화살표가 내 위치와 방향을 따라가요 (게임 화면만 읽고 저장하지 않아요)\n지도 마커가 **인게임 아이콘**으로 바뀌고 애니모 출현 지점은 얼굴로 — 오른쪽 슬라이더로 아이콘 크기 조절\n모든 패널을 **테두리·모서리를 끌어 크기 조절**, 설정에 글자 크기 슬라이더\n도감 전신 그림을 내장해 **인터넷 없이도** 도감이 동작\n홈랜드: 캠핑카 재료가 여러 단계일 때 **단계별 시설**을 나눠 표시 · 녹화 프로그램에서 오버레이가 깜빡이던 문제 수정",
+  "notes_en": "Map: **live position** — turn on [Live] under the map and the red arrow follows your position and heading (reads only the game screen, nothing is saved)\nMap markers now use **in-game icons** and Aniimo spawn points show the Aniimo's face — icon size slider on the right\nEvery panel can be **resized by dragging its edges or corner**, plus a font size slider in Settings\nDex portraits are built in, so the Dex works **fully offline**\nHomeland: multi-step camper materials are shown **per stage and facility** · fixed the overlay flickering in recording software",
   "donate": true,
   "signature": ""
 }
