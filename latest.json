@@ -1,11 +1,11 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.1/AniimoOverlay.exe",
-  "sha256": "9976f501cb46995ce5b4e3eb4b8c5234264521e142034057c61adc7c131da58b",
-  "size": 55904768,
+  "version": "1.8.2",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.2/AniimoOverlay.exe",
+  "sha256": "7ea92f79f0efdc1aae86326b880a64fa11204a3d6cd11fa95673e4b86b4a42a4",
+  "size": 55912448,
   "minVersion": "1.6.0",
-  "notes": "**지하 궁전 지도 창**: 모서리를 끌면 지도가 커지고 작아져요 (스크롤에 갇히지 않아요)\n지도 실시간 안내 문구가 바뀔 때 창 크기가 흔들리던 문제 수정\n지하 궁전 실시간 위치 단축키 추가 (기본 Alt+Shift+P, 설정에서 변경)\n게임 데이터 패치(9/29) 반영: 도감 설명, 아이템 이름, 서식지 위치",
-  "notes_en": "**Underground Palace map window**: drag the corner to grow or shrink the map (no more scroll box)\nFixed the map panel resizing itself while live position messages change\nNew hotkey for palace live position (default Alt+Shift+P, change in Settings)\nGame data patch (Sep 29): dex descriptions, item name, habitat positions",
+  "notes": "**홈랜드 계산기 애니모 탭**: 열에너지 화로·냉방기·형광등은 애니모가 항상 붙어 있어야 해서 건물마다 1마리로 따로 세요 (요구 능력: 화로 불1, 냉방기 시원함 얼음1 / 혹한 얼음2, 형광등 빛1)\n애니모 탭 아래 안내 문구 정리",
+  "notes_en": "**Homeland calculator, Aniimo tab**: the Heat Furnace, Cooling Unit and Sunlamp need an Aniimo stationed at all times, so each building now counts one Aniimo of its own (required: furnace Fire 1, cooling unit Cool Ice 1 / Freeze Ice 2, sunlamp Light 1)\nClearer note under the Aniimo tab",
   "donate": true,
   "signature": ""
 }
