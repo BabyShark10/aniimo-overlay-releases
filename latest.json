@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.0/AniimoOverlay.exe",
-  "sha256": "835483284f296b11913c05aa96284f9bca57feef216549603f9ffef67a75dda1",
-  "size": 55904256,
+  "version": "1.8.1",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.1/AniimoOverlay.exe",
+  "sha256": "9976f501cb46995ce5b4e3eb4b8c5234264521e142034057c61adc7c131da58b",
+  "size": 55904768,
   "minVersion": "1.6.0",
-  "notes": "지도에 **실시간 내 위치** — 지도 아래 [실시간]을 켜면 빨간 화살표가 내 위치와 방향을 따라가요 (게임 화면만 읽고 저장하지 않아요)\n지도 마커가 **인게임 아이콘**으로 바뀌고 애니모 출현 지점은 얼굴로 — 오른쪽 슬라이더로 아이콘 크기 조절\n모든 패널을 **테두리·모서리를 끌어 크기 조절**, 설정에 글자 크기 슬라이더\n도감 전신 그림을 내장해 **인터넷 없이도** 도감이 동작\n홈랜드: 캠핑카 재료가 여러 단계일 때 **단계별 시설**을 나눠 표시 · 녹화 프로그램에서 오버레이가 깜빡이던 문제 수정",
-  "notes_en": "Map: **live position** — turn on [Live] under the map and the red arrow follows your position and heading (reads only the game screen, nothing is saved)\nMap markers now use **in-game icons** and Aniimo spawn points show the Aniimo's face — icon size slider on the right\nEvery panel can be **resized by dragging its edges or corner**, plus a font size slider in Settings\nDex portraits are built in, so the Dex works **fully offline**\nHomeland: multi-step camper materials are shown **per stage and facility** · fixed the overlay flickering in recording software",
+  "notes": "**지하 궁전 지도 창**: 모서리를 끌면 지도가 커지고 작아져요 (스크롤에 갇히지 않아요)\n지도 실시간 안내 문구가 바뀔 때 창 크기가 흔들리던 문제 수정\n지하 궁전 실시간 위치 단축키 추가 (기본 Alt+Shift+P, 설정에서 변경)\n게임 데이터 패치(9/29) 반영: 도감 설명, 아이템 이름, 서식지 위치",
+  "notes_en": "**Underground Palace map window**: drag the corner to grow or shrink the map (no more scroll box)\nFixed the map panel resizing itself while live position messages change\nNew hotkey for palace live position (default Alt+Shift+P, change in Settings)\nGame data patch (Sep 29): dex descriptions, item name, habitat positions",
   "donate": true,
   "signature": ""
 }
