@@ -1,11 +1,11 @@
 {
-  "version": "1.8.3",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.3/AniimoOverlay.exe",
-  "sha256": "6985e49076d2db151a34f56044c1958a08281413baf12fef006ce99119215158",
-  "size": 55934976,
+  "version": "1.8.4",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.4/AniimoOverlay.exe",
+  "sha256": "5df1de43869c69b585c6c227a4756c933a5dcda266f45c92f985d682cc8be2f2",
+  "size": 55938048,
   "minVersion": "1.6.0",
-  "notes": "**상성 패널**: 상대 속성을 두 개까지 골라 이중 속성 배수(×2.56 ~ ×0.39)를 볼 수 있어요\n지도 창을 가로로 끌면 지도가 더 커져요\n설정에 **게임 창이 뒤로 가거나 내려가도 패널 유지** 추가 (기본 꺼짐)\n퀘스트 도우미 단축키 추가 (기본 Alt+E), 설정 창도 글자 크기를 따라요",
-  "notes_en": "**Type chart**: pick up to two enemy elements to see dual-type multipliers (×2.56 to ×0.39)\nDrag the map window wider and the map grows with it\nNew setting: **keep panels when the game window is behind or minimized** (off by default)\nHotkey for the quest helper (default Alt+E); the settings window now follows the text size",
+  "notes": "**게임 데이터 패치(9/30) 반영**: 서식지 위치 4종, 채집물 위치, 새 아이템",
+  "notes_en": "**Game data patch (Sep 30)**: habitat positions for 4 species, gather spots, new items",
   "donate": true,
   "signature": ""
 }
