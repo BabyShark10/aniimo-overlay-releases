@@ -1,11 +1,11 @@
 {
-  "version": "1.8.5",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.5/AniimoOverlay.exe",
-  "sha256": "a528c41199378fd03e891603d9036d94f55138ab6a55ee697d677a02cd25d611",
-  "size": 55944192,
+  "version": "1.8.6",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.6/AniimoOverlay.exe",
+  "sha256": "d795000dd436082a44bc28f7d62cd138f3d94be39f423c85cbfd96d64661147a",
+  "size": 55963136,
   "minVersion": "1.6.0",
-  "notes": "모니터와 비율이 다른 해상도의 전체 화면(양옆 검은 띠)에서 **지하 궁전·지도 실시간 위치**가 동작하지 않던 문제 수정",
-  "notes_en": "Fixed **live position (Underground Palace and map)** not working in fullscreen at a resolution whose aspect ratio differs from the monitor (black bars on the sides)",
+  "notes": "홈랜드 계산기에 **전기 모드**(캠핑카 12~) 추가 — 입력 탭에 찌릿찌릿 발전 기둥을 넣으면 [애니모] 탭이 전기로 돌릴 시설과 줄어드는 애니모 수를 알려 줘요\n전기 모드 효율은 전력 사용량에 따라 120% / 100% 구간으로 계산해요 (발전 기둥마다 번개 애니모 1마리)",
+  "notes_en": "Homeland calculator: **electric mode** (RV 12+) — enter your Crackle Generator on the Inputs tab and the Aniimo tab picks which facilities to run on electricity and how many Aniimo that frees\nElectric efficiency follows the grid's power draw: 120% or 100% band (each generator needs one Lightning Aniimo)",
   "donate": true,
   "signature": ""
 }
