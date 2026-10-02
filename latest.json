@@ -1,11 +1,11 @@
 {
-  "version": "1.8.6",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.6/AniimoOverlay.exe",
-  "sha256": "d795000dd436082a44bc28f7d62cd138f3d94be39f423c85cbfd96d64661147a",
-  "size": 55963136,
+  "version": "1.8.7",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.7/AniimoOverlay.exe",
+  "sha256": "611239aea2d9d5bce159ccc378df5727a37904435cbdef5d232d917ec9724f4f",
+  "size": 55963648,
   "minVersion": "1.6.0",
-  "notes": "홈랜드 계산기에 **전기 모드**(캠핑카 12~) 추가 — 입력 탭에 찌릿찌릿 발전 기둥을 넣으면 [애니모] 탭이 전기로 돌릴 시설과 줄어드는 애니모 수를 알려 줘요\n전기 모드 효율은 전력 사용량에 따라 120% / 100% 구간으로 계산해요 (발전 기둥마다 번개 애니모 1마리)",
-  "notes_en": "Homeland calculator: **electric mode** (RV 12+) — enter your Crackle Generator on the Inputs tab and the Aniimo tab picks which facilities to run on electricity and how many Aniimo that frees\nElectric efficiency follows the grid's power draw: 120% or 100% band (each generator needs one Lightning Aniimo)",
+  "notes": "지하 궁전 찾기: **카오스 난이도에서 알 둥지가 일부만 보이던 문제** 수정 (열쇠 방 둥지만 보이고 나머지가 빠져 있었어요)",
+  "notes_en": "Underground Palace finder: fixed **egg nests missing on Chaos difficulty** (only the key-room nests were shown)",
   "donate": true,
   "signature": ""
 }
