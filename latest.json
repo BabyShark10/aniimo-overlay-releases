@@ -1,11 +1,11 @@
 {
-  "version": "1.8.4",
-  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.4/AniimoOverlay.exe",
-  "sha256": "5df1de43869c69b585c6c227a4756c933a5dcda266f45c92f985d682cc8be2f2",
-  "size": 55938048,
+  "version": "1.8.5",
+  "url": "https://github.com/BabyShark10/aniimo-overlay-releases/releases/download/v1.8.5/AniimoOverlay.exe",
+  "sha256": "a528c41199378fd03e891603d9036d94f55138ab6a55ee697d677a02cd25d611",
+  "size": 55944192,
   "minVersion": "1.6.0",
-  "notes": "**게임 데이터 패치(9/30) 반영**: 서식지 위치 4종, 채집물 위치, 새 아이템",
-  "notes_en": "**Game data patch (Sep 30)**: habitat positions for 4 species, gather spots, new items",
+  "notes": "모니터와 비율이 다른 해상도의 전체 화면(양옆 검은 띠)에서 **지하 궁전·지도 실시간 위치**가 동작하지 않던 문제 수정",
+  "notes_en": "Fixed **live position (Underground Palace and map)** not working in fullscreen at a resolution whose aspect ratio differs from the monitor (black bars on the sides)",
   "donate": true,
   "signature": ""
 }
